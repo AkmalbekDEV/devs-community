@@ -9,7 +9,7 @@ const Navbar = () => {
         <div className='flex justify-between items-center py-8 text-white max-sm:grid max-sm:grid-cols-1 max-sm:text-center max-sm:gap-5'>
             <div className='flex gap-2 items-center max-sm:justify-center'>
                 <MdDeveloperBoard size={50} color='white' />
-                <h1 className='text-2xl font-bold'>DevS Community</h1>
+                <h1 className='text-2xl font-bold'>WBS Community</h1>
             </div>
             <div className='flex justify-between items-center w-[60%] max-sm:w-full'>
                 <nav className='flex items-center gap-6 max-sm:gap-4 text-xl'>

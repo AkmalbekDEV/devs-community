@@ -4,7 +4,6 @@ import TypewriterComponent from 'typewriter-effect'
 
 const Hero = () => {
     const AkmalDev = 'https://github.com/AkmalbekDEV'
-    const QadamboyDev = 'https://github.com/QadamboyDev09'
 
     return (
         <div className='h-[400px] flex justify-center items-center text-white'>
